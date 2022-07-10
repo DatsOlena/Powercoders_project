@@ -3,15 +3,19 @@ h2 {
     color: #ffffff;
   }
 
-  li {
+li {
     list-style: none;
   }
 
+  
 textarea {
     resize: none;
     width: 45%;
-    height: 100px;
-    margin-top: 5px;
+    height: 200px;
+}
+
+input {
+    margin-bottom: 5px;
 }
 
 .title {
