@@ -99,8 +99,8 @@ input {
 }
 
 .entry_two:hover::after {
-    content: " Skills You Need To Know To Become A Front End Developer In 2022";
+    content: " Skills To Know To Become A Front End Developer In 2022";
 }
 .entry_one:hover::after {
-    content: " What Is a Front-End Developer?";
+    content: " What Is A Front-End Developer?";
 }
